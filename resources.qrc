@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/TitleBar">
+        <file>Resources/frameless/logo.png</file>
+        <file>Resources/frameless/minimize.png</file>
+        <file>Resources/frameless/minimize_h.png</file>
+        <file>Resources/frameless/minimize_p.png</file>
+        <file>Resources/frameless/maximize.png</file>
+        <file>Resources/frameless/maximize_h.png</file>
+        <file>Resources/frameless/maximize_p.png</file>
+        <file>Resources/frameless/restore.png</file>
+        <file>Resources/frameless/restore_h.png</file>
+        <file>Resources/frameless/restore_p.png</file>
+        <file>Resources/frameless/close.png</file>
+        <file>Resources/frameless/close_h.png</file>
+        <file>Resources/frameless/close_p.png</file>
+        <file>qss/titlebar.qss</file>
+        <file>Resources/title_bar/btn_minimize_normal_hover_press.svg</file>
+        <file>Resources/title_bar/btn_maximize_normal_hover_press.svg</file>
+        <file>Resources/title_bar/btn_close_normal.svg</file>
+        <file>Resources/title_bar/btn_close_hover_press.svg</file>
+    </qresource>
+    <qresource prefix="/QPostman">
+        <file>qss/QPostman.qss</file>
+    </qresource>
+</RCC>

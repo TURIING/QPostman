@@ -1,0 +1,44 @@
+#titleBar
+{
+	background: rgb(255, 255, 255);
+}
+
+ #iconLabel
+{
+	margin-left:3px;
+	margin-right:3px;
+	min-height:32px;
+	min-width:32px;
+	max-height:32px;
+	max-width:32px;
+	border-image:url(:/TitleBar/Resources/frameless/logo.png)
+}
+
+#btnMinimize
+{
+	min-height: 62px;
+	min-width: 57px;
+	max-height: 62px;
+	max-width: 57px;
+}
+
+
+#btnMaximize
+{
+	min-height: 62px;
+	min-width: 57px;
+	max-height: 62px;
+	max-width: 57px;
+}
+
+
+
+#btnClose
+{
+	min-height: 62px;
+	min-width: 57px;
+	max-height: 62px;
+	max-width: 57px;
+}
+
+
